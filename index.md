@@ -1,5 +1,7 @@
-## Welcome to GitHub Pages
-You Are welcome to my webpage! 
+# Welcome to Elisha B. Are's page!
+## Introduction 
+On this page, you will find my Bio and brief descriptions of my ongoing research projects. Additionally, you will find here, recent updates and news relating to my research activitivities. 
+
 You can use the [editor on GitHub](https://github.com/ElishaBayode/ElishaAre.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -8,23 +10,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
