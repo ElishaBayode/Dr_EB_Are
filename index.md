@@ -5,8 +5,9 @@
 ## Introduction 
 On this page, you will find my Bio and brief descriptions of my ongoing research projects. Additionally, you will find here, recent updates and news relating to my research activitivities. 
 
-## Recent news, activities and media appearances 
-
+## Recent news covering my research, my activities and media appearances 
+### [Citynews](https://vancouver.citynews.ca/2022/04/11/bc-covid-modelling-data-concerns/)
+### [The Washington Post](https://www.washingtonpost.com/business/is-covid-becoming-endemic-what-would-that-mean/2022/01/19/9dd7066a-791c-11ec-9dce-7313579de434_story.html)
 
 ## Research projects and description 
 
