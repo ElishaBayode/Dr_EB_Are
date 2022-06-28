@@ -1,5 +1,7 @@
 
-<img src="https://user-images.githubusercontent.com/28117985/176061139-a61c38d6-acb8-4105-832d-f48dd9e2600f.JPG" width="200">
+<img src="https://user-images.githubusercontent.com/28117985/176061944-af556ff9-5d7c-4a9b-ab33-b2dd952f3075.JPG" width="200">
+
+
 
 # Welcome to Elisha B. Are's page!
 ## Introduction 
