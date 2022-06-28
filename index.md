@@ -1,3 +1,6 @@
+
+<img src="https://user-images.githubusercontent.com/28117985/176061139-a61c38d6-acb8-4105-832d-f48dd9e2600f.JPG" width="200">
+
 # Welcome to Elisha B. Are's page!
 ## Introduction 
 On this page, you will find my Bio and brief descriptions of my ongoing research projects. Additionally, you will find here, recent updates and news relating to my research activitivities. 
