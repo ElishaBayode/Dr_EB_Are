@@ -49,9 +49,8 @@ Here's an overview of the projects I'm currently involved in:
 [Additional Projects and Descriptions as Appropriate]
 
 ## Publications
-[List of recent publications, if applicable]
-- [Publication Title](Link to Publication)
-- [Another Publication Title](Link to Publication)
+[List of recent publications]
+- **Google Scholar**: [Elisha B. Are's Publications](https://scholar.google.ca/citations?user=b66swTMAAAAJ&hl=en)
 
 ## Social Media Presence
 Connect with me and follow my research journey:
@@ -61,7 +60,6 @@ Connect with me and follow my research journey:
 For collaborations, media inquiries, or academic discussions:
 - **Email**: [elisha_are@sfu.ca](mailto:elisha_are@sfu.ca), [areelisha@gmail.com](mailto:areelisha@gmail.com)
 - **LinkedIn**: [Elisha B. Are, PhD](https://www.linkedin.com/in/elisha-b-are-phd-365b6716a/)
-- **Google Scholar**: [Elisha B. Are's Publications](https://scholar.google.ca/citations?user=b66swTMAAAAJ&hl=en)
 
   
 # Picture Gallery
