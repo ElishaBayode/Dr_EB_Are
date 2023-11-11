@@ -1,5 +1,5 @@
 
-<img src="https://github.com/ElishaBayode/Dr_EB_Are/blob/main/Fields-Institute-Headshots-2022-16.jpg" width="250">
+<img src="https://github.com/ElishaBayode/Dr_EB_Are/blob/main/Fields-Institute-Headshots-2022-16.jpg?raw=true" width="250">
 
 # Welcome to Dr. Elisha B. Are's research portal!
 ## Introduction 
