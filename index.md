@@ -6,8 +6,28 @@
 On this page, you will find my bio and brief descriptions of my ongoing research projects. Additionally, you will find recent updates and news relating to my research activities here.
 
 ## About Me
-[Brief Bio or Personal Statement]
-- **Background**: [Details about your academic background]
+## Education & Training
+
+### PhD in Mathematical Biology
+- **Institution**: Stellenbosch University
+- **Departments**: Mathematics Department & South African Center for Epidemiological Modelling and Analysis (SACEMA)
+
+### MSc in Mathematics
+- **Institution**: University of Ilorin
+
+### BSc in Mathematics
+- **Institution**: University of Ilorin
+
+### Additional Courses and Training
+- **Software Engineering for Applied Mathematical Sciences (SEAMS)**
+  - **Institution**: Stellenbosch University
+- **Training in Environmental Health and Epidemiology**
+  - **Institution**: Stellenbosch University
+- **Advanced Course in Epidemiological Methods**
+  - **Institution**: Stellenbosch University
+- **Data Management in R**
+  - **Institution**: Stellenbosch University
+
 - **Research Interests**: [Your research areas or interests]
 - **Goals**: [Your research goals or what you aim to achieve in your field]
 
