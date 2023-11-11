@@ -37,8 +37,10 @@ Connect with me and follow my research journey:
 
 ## Contact
 For collaborations, media inquiries, or academic discussions:
-- **Email**: [Your Professional Email]
-- **LinkedIn**: [Link to LinkedIn Profile]
+- **Email**: [elisha_are@sfu.ca, areelisha@gmail.com]
+- **LinkedIn**: [(https://www.linkedin.com/in/elisha-b-are-phd-365b6716a/)]
+- **Google Scholar**: [https://scholar.google.ca/citations?user=b66swTMAAAAJ&hl=en]
+  
 
 ### Support or Contact
 Need help with GitHub Pages? Check out the [GitHub Pages documentation](https://docs.github.com/categories/github-pages-basics/) or [contact GitHub support](https://support.github.com/contact) for assistance.
