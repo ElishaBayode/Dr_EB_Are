@@ -5,6 +5,10 @@
 ## Introduction 
 On this page, you will find my bio and brief descriptions of my ongoing research projects. Additionally, you will find recent updates and news relating to my research activities here.
 
+# Welcome to Elisha B. Are's page!
+## Introduction 
+On this page, you will find my bio and brief descriptions of my ongoing research projects. Additionally, you will find recent updates and news relating to my research activities here.
+
 ## Recent news covering my research, my activities and media appearances 
 ### [Citynews](https://vancouver.citynews.ca/2022/04/11/bc-covid-modelling-data-concerns/)
 ### [The Washington Post](https://www.washingtonpost.com/business/is-covid-becoming-endemic-what-would-that-mean/2022/01/19/9dd7066a-791c-11ec-9dce-7313579de434_story.html)
