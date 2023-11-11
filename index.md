@@ -29,7 +29,6 @@ On this page, you will find my bio and brief descriptions of my ongoing research
   - **Institution**: Stellenbosch University
 
 - **Research Interests**: [Your research areas or interests]
-- **Goals**: [Your research goals or what you aim to achieve in your field]
 
 ## In the News
 Highlighting my recent media appearances and coverage of my research:
@@ -49,7 +48,7 @@ Here's an overview of the projects I'm currently involved in:
 [Additional Projects and Descriptions as Appropriate]
 
 ## Publications
-[List of recent publications]
+[List of publications]
 - **Google Scholar**: [Elisha B. Are's Publications](https://scholar.google.ca/citations?user=b66swTMAAAAJ&hl=en)
 
 ## Social Media Presence
