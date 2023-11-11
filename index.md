@@ -44,6 +44,13 @@ For collaborations, media inquiries, or academic discussions:
 - **Google Scholar**: [Elisha B. Are's Publications](https://scholar.google.ca/citations?user=b66swTMAAAAJ&hl=en)
 
   
+# Picture Gallery
 
+<p float="left">
+  <img src="https://github.com/ElishaBayode/Dr_EB_Are/blob/main/DSCF3246.JPG?raw=true" width="100" />
+  <img src="URL_of_your_second_image.jpg" width="100" /> 
+  <img src="URL_of_your_third_image.jpg" width="100" />
+  <!-- Add more images as needed -->
+</p>
 ### Support or Contact
 Need help with GitHub Pages? Check out the [GitHub Pages documentation](https://docs.github.com/categories/github-pages-basics/) or [contact GitHub support](https://support.github.com/contact) for assistance.
