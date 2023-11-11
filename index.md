@@ -18,6 +18,8 @@ Highlighting my recent media appearances and coverage of my research:
 
 ## Current Research Projects
 Here's an overview of the projects I'm currently involved in:
+- **Current CV**: [Elisha B. Are's CV](https://github.com/ElishaBayode/Dr_EB_Are/blob/main/Elisha_CV-Nov2023.pdf)
+
 
 ### COVID-19: From Pandemic to Endemic Mode
 - **Description**: [Brief description of the project, its scope, and objectives]
