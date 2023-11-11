@@ -37,9 +37,10 @@ Connect with me and follow my research journey:
 
 ## Contact
 For collaborations, media inquiries, or academic discussions:
-- **Email**: [elisha_are@sfu.ca, areelisha@gmail.com]
-- **LinkedIn**: [(https://www.linkedin.com/in/elisha-b-are-phd-365b6716a/)]
-- **Google Scholar**: [https://scholar.google.ca/citations?user=b66swTMAAAAJ&hl=en]
+- **Email**: [elisha_are@sfu.ca](mailto:elisha_are@sfu.ca), [areelisha@gmail.com](mailto:areelisha@gmail.com)
+- **LinkedIn**: [Elisha B. Are, PhD](https://www.linkedin.com/in/elisha-b-are-phd-365b6716a/)
+- **Google Scholar**: [Elisha B. Are's Publications](https://scholar.google.ca/citations?user=b66swTMAAAAJ&hl=en)
+
   
 
 ### Support or Contact
