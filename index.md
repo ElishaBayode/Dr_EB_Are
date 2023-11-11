@@ -1,7 +1,7 @@
 
-<img src="https://user-images.githubusercontent.com/28117985/176061944-af556ff9-5d7c-4a9b-ab33-b2dd952f3075.JPG" width="200">
+<img src="https://github.com/ElishaBayode/Dr_EB_Are/blob/main/Fields-Institute-Headshots-2022-16.jpg" width="200">
 
-# Welcome to Elisha B. Are's page!
+# Welcome to Dr. Elisha B. Are's research portal!
 ## Introduction 
 On this page, you will find my bio and brief descriptions of my ongoing research projects. Additionally, you will find recent updates and news relating to my research activities here.
 
