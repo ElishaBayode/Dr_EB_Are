@@ -28,7 +28,7 @@ On this page, you will find my bio and brief descriptions of my ongoing research
 - **Data Management in R**
   - **Institution**: Stellenbosch University
 
-- **Research Interests**: [Your research areas or interests]
+## Research Interests : [Your research areas or interests]
 
 ## In the News
 Highlighting my recent media appearances and coverage of my research:
